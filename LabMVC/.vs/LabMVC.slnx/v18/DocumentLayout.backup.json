@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shared\\MVC\\LabMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\modellab\\taghelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\modellab\\taghelpers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\taghelperlab\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\taghelperlab\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\modellab\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\modellab\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\modellab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\modellab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\jsonlab\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\jsonlab\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\areas\\member\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\areas\\member\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\myroute\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\myroute\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\lab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\lab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\lab\\viewbagview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\lab\\viewbagview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\myroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\myroutecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\areas\\member\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\areas\\member\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\lab\\vredirectaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\lab\\vredirectaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\lab\\tempdataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\lab\\tempdataview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\home\\myaction02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\home\\myaction02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\home\\myaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\home\\myaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\myroute\\routeabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\myroute\\routeabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\myroute\\index02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\myroute\\index02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 315,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelLabController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\ModelLabController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\ModelLabController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:31:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T03:39:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LabController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\LabController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\LabController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAQwIYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T03:33:10.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\MyRoute\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\MyRoute\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\MyRoute\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\MyRoute\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T01:39:48.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyRouteController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\MyRouteController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\MyRouteController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\MyRouteController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\MyRouteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:38:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Areas\\Member\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Areas\\Member\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Areas\\Member\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LabMVC\\Areas\\Member\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T02:58:20.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T01:21:28.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T04:00:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyAction02.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\MyAction02.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Home\\MyAction02.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\MyAction02.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Home\\MyAction02.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-03T06:57:12.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T05:46:55.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyAction.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\MyAction.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Home\\MyAction.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\MyAction.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Home\\MyAction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T03:54:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index02.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\MyRoute\\Index02.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\MyRoute\\Index02.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\MyRoute\\Index02.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\MyRoute\\Index02.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T01:43:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RouteAbout.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\MyRoute\\RouteAbout.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\MyRoute\\RouteAbout.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\MyRoute\\RouteAbout.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\MyRoute\\RouteAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T02:03:35.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LabMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LabMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAywBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T06:49:54.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "LabMVC\\appsettings.json",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\appsettings.json",
+              "RelativeToolTip": "LabMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-01T06:46:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T03:45:49.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LabMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T03:55:06.439Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagHelpers.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\TagHelpers.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\ModelLab\\TagHelpers.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\TagHelpers.cshtml*",
+              "RelativeToolTip": "LabMVC\\Views\\ModelLab\\TagHelpers.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T07:23:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T05:47:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Areas\\Member\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Areas\\Member\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Areas\\Member\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Areas\\Member\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T03:00:33.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Lab\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Lab\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-03T01:18:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Program.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Program.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Program.cs",
+              "RelativeToolTip": "LabMVC\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAD4vzAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T06:52:30.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\JsonLab\\Customer.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\JsonLab\\Customer.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\JsonLab\\Customer.cs",
+              "RelativeToolTip": "LabMVC\\Models\\JsonLab\\Customer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:52:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewBagView.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\ViewBagView.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Lab\\ViewBagView.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\ViewBagView.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Lab\\ViewBagView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T01:49:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VRedirectAction.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\VRedirectAction.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Lab\\VRedirectAction.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\VRedirectAction.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Lab\\VRedirectAction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T02:40:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TempDataView.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\TempDataView.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Lab\\TempDataView.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\TempDataView.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Lab\\TempDataView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T01:23:35.602Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\TagHelperLab\\Member.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\TagHelperLab\\Member.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\TagHelperLab\\Member.cs",
+              "RelativeToolTip": "LabMVC\\Models\\TagHelperLab\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T07:55:27.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

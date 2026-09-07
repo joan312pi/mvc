@@ -1,0 +1,32 @@
+﻿@using LabMVC.Models.JsonLab
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>@ViewBag.Message</h1>
+
+<h1>@ViewData["Message"]</h1>
+
+<table class="table table-hover table-danger">
+    <thead>
+        <tr>
+            <th>公司名稱</th>
+            <th>ContactName</th>
+            <th>City</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ((List<Customer>)ViewBag.GetCustomers))
+            {
+            <tr >
+                    <td>@item.CompanyName</td>
+                    <td>@item.ContactName</td>
+                    <td>@item.City</td>
+                    <td>@item.Country</td>
+                </tr>
+            }
+    </tbody>
+</table>

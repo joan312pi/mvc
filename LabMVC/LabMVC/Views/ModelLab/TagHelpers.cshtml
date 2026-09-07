@@ -1,0 +1,35 @@
+﻿@model LabMVC.Models.TagHelperLab.Member;
+
+
+
+<div style="width:60%" >
+
+<form class="form-control" method="post"@*  asp-action="TagHelpers" *@>
+    <label asp-for="MemberName" class="form-label">會員姓名：</label>
+    <input type="text" class="form-control" asp-for="MemberName" value="Guest" />
+    <label asp-for="MemberPassword" class="form-label">會員密碼：</label>
+    <input type="password" class="form-control" asp-for="MemberPassword" placeholder="請輸入會員密碼" />
+     <label asp-for="Descript" class="form-label">描述：</label>
+     <textarea class="form-control" asp-for="Descript" cols="20" rows="10" placeholder="描述"></textarea>
+
+      <label class="form-label">興趣：</label>
+        <input type="checkbox" name="Interest" value="1" />音樂
+        <input type="checkbox" name="Interest" value="2" />電影
+ 
+
+    <label class="form-label">婚姻狀況：</label>
+        <input type="radio" asp-for="Married" value="1" />已婚
+        <input type="radio" asp-for="Married" value="2" />未婚
+
+    <label class="form-label">城市：</label>
+        <select asp-for="City">
+        <option value="" >請選擇城市</option>
+        <option value="1">台北</option>
+        <option value="2">高雄</option>
+    </select>
+
+    <input type="submit" value="送出" class="btn btn-primary" />
+
+</form>
+
+</div>

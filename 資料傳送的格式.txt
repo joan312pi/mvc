@@ -1,0 +1,15 @@
+
+json
+{
+ "Name" : "陳庭妮",
+ "Phone" : "09123789456",
+ "BirthDate" : "1980/1/1 00:00:00"
+}
+
+
+xml
+<Member>
+  <Name>陳庭妮</Name> 
+  <Phone>09123789456</Phone> 
+  <BirthDate>1980/1/1 00:00:00</BirthDate> 
+</Member>
