@@ -12,97 +12,113 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LabMVC
 build_property.RootNamespace = LabMVC
-build_property.ProjectDir = C:\Shared\MVC\LabMVC\LabMVC\
+build_property.ProjectDir = \\192.168.35.200\Shared\MVC\LabMVC\LabMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Shared\MVC\LabMVC\LabMVC
+build_property.MSBuildProjectDirectory = \\192.168.35.200\Shared\MVC\LabMVC\LabMVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Areas/Member/Views/Account/Index.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Areas/Member/Views/Account/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXEFjY291bnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Home/About.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Customer/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Home/Index.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Home/MyAction.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Home/MyAction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeUFjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Home/MyAction02.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Home/MyAction02.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeUFjdGlvbjAyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Home/Privacy.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Lab/Index.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Lab/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Lab/TempDataView.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Lab/TempDataView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXFRlbXBEYXRhVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Lab/ViewBagView.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Lab/ViewBagView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXFZpZXdCYWdWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Lab/VRedirectAction.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Lab/VRedirectAction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXFZSZWRpcmVjdEFjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/ModelLab/Edit.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Lab/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/ModelLab/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxMYWJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/ModelLab/Index.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/ModelLab/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxMYWJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/ModelLab/TagHelpers.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/ModelLab/TagHelpers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxMYWJcVGFnSGVscGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/MyRoute/Index.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/MyRoute/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlSb3V0ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/MyRoute/Index02.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/MyRoute/Index02.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlSb3V0ZVxJbmRleDAyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/MyRoute/RouteAbout.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/MyRoute/RouteAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlSb3V0ZVxSb3V0ZUFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Shared/Error.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Shared/_LayoutLab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMYWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/_ViewImports.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/_ViewStart.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Shared/MVC/LabMVC/LabMVC/Views/Shared/_Layout.cshtml]
+[//192.168.35.200/Shared/MVC/LabMVC/LabMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9gmw617foy

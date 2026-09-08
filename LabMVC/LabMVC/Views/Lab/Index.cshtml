@@ -6,6 +6,7 @@
 
 
 <h2>Lab html</h2>
+<input type="button" id="Hello" value="Say Hello" />
 
 <h3>@ViewData["Message"]</h3>
 <h4>@TempData["TempMessage"]</h4>
@@ -13,3 +14,21 @@
 <img src="https://localhost:7253/lab/returnfile/01" width="100%" />
 
 <img src="https://localhost:7253/lab/returnfile/02" width="100%" />
+
+
+@section Scripts{
+<script>
+document.getElementById("Hello").onclick=funSH;
+
+function funSH(){
+alert("Hello! MVC")
+}
+</script>
+
+}
+
+
+@section Styles{
+
+
+}

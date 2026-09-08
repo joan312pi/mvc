@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj": {}
+    "\\\\192.168.35.200\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj": {}
   },
   "projects": {
-    "C:\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj": {
+    "\\\\192.168.35.200\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj",
+        "projectUniqueName": "\\\\192.168.35.200\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj",
         "projectName": "LabMVC",
-        "projectPath": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj",
+        "projectPath": "\\\\192.168.35.200\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\obj\\",
+        "outputPath": "\\\\192.168.35.200\\Shared\\MVC\\LabMVC\\LabMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,16 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
