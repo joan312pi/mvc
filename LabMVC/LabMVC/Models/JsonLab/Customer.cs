@@ -1,8 +1,11 @@
-﻿namespace LabMVC.Models.JsonLab
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace LabMVC.Models.JsonLab
 {
     public class Customer
     {
         public string CustomerID { get; set; }
+        [Required(ErrorMessage = "公司名稱為必填欄位")]
         public string CompanyName { get; set; }
         public string ContactName { get; set; }
         public string ContactTitle { get; set; }

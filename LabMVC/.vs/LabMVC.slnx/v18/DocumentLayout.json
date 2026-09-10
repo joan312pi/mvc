@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Shared\\MVC\\LabMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\modellab\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\modellab\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\jsonlab\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\jsonlab\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\modelmatadata\\ordermetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\modelmatadata\\ordermetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\northwinddbcontext\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\northwinddbcontext\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\modellab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\modellab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +51,52 @@
       "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\northwinddbcontext\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\lab\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\lab\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\labmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\labmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\northwinddbcontext\\northwinddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\northwinddbcontext\\northwinddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\modellab\\requestformlab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\modellab\\requestformlab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,167 +105,330 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 386,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 338,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 763,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "LabMVC\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T03:39:41.123Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LabController.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Controllers\\LabController.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
-              "RelativeToolTip": "LabMVC\\Controllers\\LabController.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T03:42:58.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "LabMVC\\appsettings.json",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\appsettings.json",
-              "RelativeToolTip": "LabMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-08T03:38:31.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "RelativeToolTip": "LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T03:36:40.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LabMVC\\Views\\Lab\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Lab\\_ViewStart.cshtml",
-              "RelativeToolTip": "LabMVC\\Views\\Lab\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-08T03:18:50.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Program.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Program.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Program.cs",
-              "RelativeToolTip": "LabMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T02:58:10.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LabMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "LabMVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-08T03:19:24.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LabMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LabMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-08T03:16:18.435Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 723,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\JsonLab\\Customer.cs",
               "RelativeDocumentMoniker": "LabMVC\\Models\\JsonLab\\Customer.cs",
               "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\JsonLab\\Customer.cs",
               "RelativeToolTip": "LabMVC\\Models\\JsonLab\\Customer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T04:03:41.281Z",
+              "WhenOpened": "2026-09-10T08:40:13.81Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\ModelLab\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T08:39:59.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelLabController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\ModelLabController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\ModelLabController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T01:08:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Order.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\NorthwindDbContext\\Order.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Order.cs",
+              "RelativeToolTip": "LabMVC\\Models\\NorthwindDbContext\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:49:07.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:20:50.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T07:19:36.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv2wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T07:19:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T07:20:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T07:15:29.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LabMVC.csproj",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj",
+              "RelativeDocumentMoniker": "LabMVC\\LabMVC.csproj",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\LabMVC.csproj",
+              "RelativeToolTip": "LabMVC\\LabMVC.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T07:07:43.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NorthwindDbContext.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
+              "RelativeToolTip": "LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T01:11:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T01:33:57.034Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 434,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderMetaData.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\ModelMataData\\OrderMetaData.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\ModelMataData\\OrderMetaData.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\ModelMataData\\OrderMetaData.cs",
+              "RelativeToolTip": "LabMVC\\Models\\ModelMataData\\OrderMetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:29:57.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T07:19:09.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LabMVC\\Views\\Customer\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\_ViewStart.cshtml",
-              "RelativeToolTip": "LabMVC\\Views\\Customer\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-08T04:02:33.377Z",
+              "WhenOpened": "2026-09-10T07:19:50.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\ModelLab\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T07:48:22.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T01:07:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
+              "RelativeToolTip": "LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T01:16:47.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestFormLab.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\RequestFormLab.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\ModelLab\\RequestFormLab.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\ModelLab\\RequestFormLab.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\ModelLab\\RequestFormLab.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T05:39:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T03:02:51.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "LabMVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:18:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T01:56:54.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "LabMVC\\Views\\Customer\\Index.cshtml",
               "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "LabMVC\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-08T03:52:49.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-10T01:12:46.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabMVC\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "LabMVC\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T01:16:09.615Z"
             }
           ]
         }

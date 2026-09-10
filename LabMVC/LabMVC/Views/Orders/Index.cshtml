@@ -1,0 +1,71 @@
+@model IEnumerable<LabMVC.Models.NorthwindDbContext.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RequiredDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShippedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Freight)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.OrderID)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.EmployeeID)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.RequiredDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.ShippedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Freight)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

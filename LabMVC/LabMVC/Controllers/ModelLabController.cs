@@ -1,4 +1,5 @@
-﻿using LabMVC.Models.JsonLab;
+﻿using LabMVC.Models;
+using LabMVC.Models.JsonLab;
 using LabMVC.Models.TagHelperLab;
 using Microsoft.AspNetCore.Mvc;
 
@@ -41,6 +42,37 @@ namespace LabMVC.Controllers
             return View(member);
         }
 
+        public IActionResult RequestFormLab()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public string RequestFormSubmit()
+        {
+            return $"Email: {Request.Form["Email"]}," +
+                $" Password: {Request.Form["Password"]}";
+        }
+
+        public IActionResult RequestFromForm([FromForm] string Email
+            , [FromForm] string Password)
+        {
+            return Json(new
+            {
+                帳號= Email,
+                密碼=Password
+            });
+        }
+
+        [HttpPost]
+        public IActionResult RequestFromModel(LoginViewModel login)
+        {
+            return Json(new
+            {
+                帳號 = login.Email,
+                密碼 = login.Password
+            });
+        }
 
     }
 }

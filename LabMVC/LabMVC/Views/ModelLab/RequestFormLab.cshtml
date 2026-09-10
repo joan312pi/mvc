@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout";
+}
+
+
+<form asp-action="RequestFormSubmit" method="post">
+    <input type="text" name="Email" placeholder="Enter your email" />
+    <input type="password" name="Password" placeholder="Enter your password" />
+
+    <input type="submit" value="Submit" />
+</form>
+
+<form asp-action="RequestFromForm" method="post">
+    <input type="text" name="Email" placeholder="Enter your email" />
+    <input type="password" name="Password" placeholder="Enter your password" />
+
+    <input type="submit" value="Submit" />
+</form>
+
+<form asp-action="RequestFromModel" method="post">
+    <input type="text" name="Email" placeholder="Enter your email" />
+    <input type="password" name="Password" placeholder="Enter your password" />
+
+    <input type="submit" value="Submit" />
+</form>
