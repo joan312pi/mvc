@@ -1,4 +1,5 @@
 using LabMVC.Models.NorthwindDbContext;
+using LabMVC.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LabMVC.Controllers
@@ -13,7 +14,22 @@ namespace LabMVC.Controllers
 
         public IActionResult Index()
         {
-            var q = _dbcontext.Orders;
+            //var q = _dbcontext.Orders;
+
+            var q = from o in _dbcontext.Orders
+                    join e in _dbcontext.Employees
+                    on o.EmployeeID equals e.EmployeeID
+                    select new OrdersViewModel
+                    {
+                        OrderID = o.OrderID,
+                        CustomerID = o.CustomerID,
+                        EmployeeName = e.FirstName + " " + e.LastName,
+                        OrderDate = o.OrderDate,
+                        RequiredDate = o.RequiredDate,
+                        ShippedDate = o.ShippedDate,
+                        Freight =o.Freight
+                    };
+
            return View(q);
         }
 

@@ -1,4 +1,4 @@
-@model IEnumerable<LabMVC.Models.NorthwindDbContext.Order>
+@model IEnumerable<LabMVC.Models.ViewModel.OrdersViewModel>
 
 @{
     ViewData["Title"] = "Index";
@@ -19,7 +19,7 @@
                 @Html.DisplayNameFor(model => model.CustomerID)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.EmployeeID)
+                @Html.DisplayNameFor(model => model.EmployeeName)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.OrderDate)
@@ -46,7 +46,7 @@
                 @Html.DisplayFor(model => item.CustomerID)
             </td>
             <td>
-                @Html.DisplayFor(model => item.EmployeeID)
+                @Html.DisplayFor(model => item.EmployeeName)
             </td>
             <td>
                 @Html.DisplayFor(model => item.OrderDate)

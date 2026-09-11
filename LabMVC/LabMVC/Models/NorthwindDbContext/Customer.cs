@@ -6,6 +6,8 @@ namespace LabMVC.Models.NorthwindDbContext
     {
         [Key]
         public string CustomerID { get; set; } = null!;
+
+        [Required(ErrorMessage = "公司名稱為必填欄位")]
         public string CompanyName { get; set; } = null!;
         public string? ContactName { get; set; }
         public string? ContactTitle { get; set; }

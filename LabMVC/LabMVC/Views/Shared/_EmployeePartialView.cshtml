@@ -1,0 +1,15 @@
+﻿@model LabMVC.Models.NorthwindDbContext.Employee
+
+@{
+    string imageUrl = $"~/images/{Model.EmployeeID}.jpg";
+}
+
+
+<div class="card " style="width: 20rem;">
+    <img src="@Url.Content(imageUrl)" class="card-img-top" alt="@Model.LastName" style="height:20%">
+    <div class="card-body">
+        <h6 class="card-title">@Model.FirstName @Model.LastName</h6>
+        <p class="card-text">@Model.City - @Model.Country</p>
+        <p class="card-text">生日：@Model.BirthDate</p>
+    </div>
+</div>

@@ -1,4 +1,6 @@
 using LabMVC.Models.NorthwindDbContext;
+using LabMVC.Models.Repository;
+using LabMVC.Models.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +10,17 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<NorthwindDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("Northwind")));
+
+builder.Services.AddScoped<INorthwindEmployeeRepository, NorthwindEmployeeRepository>();
+
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(NorthwindGenericRepository<>));
+
+builder.Services.AddScoped<IGenericRepository<Customer> , NorthwindGenericRepository<Customer>>();
+
+builder.Services.AddScoped<IGenericRepository<Employee> , NorthwindGenericRepository<Employee>>();
+
+builder.Services.AddScoped<IGenericRepository<Order>, NorthwindGenericRepository<Order>>();
+
 
 var app = builder.Build();
 

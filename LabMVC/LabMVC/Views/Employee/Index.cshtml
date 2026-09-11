@@ -1,0 +1,15 @@
+﻿@model IEnumerable<LabMVC.Models.NorthwindDbContext.Employee>
+
+
+@{
+}
+
+@foreach(var item in Model)
+{
+    @* <h2> @($"{item.FirstName} {item.LastName}")</h2> *@
+
+        <partial name="_EmployeePartialView" model="item"></partial>
+    
+}
+
+
