@@ -13,6 +13,9 @@
 
         void SaveChanges();
 
+        Task< Table?> GetByIdAsync(object id);
+
+        Task SaveChangesAsync();
 
     }
 }

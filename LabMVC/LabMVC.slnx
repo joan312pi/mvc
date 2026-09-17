@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="LabMVC/LabMVC.csproj" />
+  <Project Path="WebAPIlab/WebAPIlab.csproj" Id="0b4fc571-00ec-4824-85fe-c98936929251" />
 </Solution>

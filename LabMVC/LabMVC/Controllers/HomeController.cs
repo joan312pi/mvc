@@ -6,7 +6,7 @@ namespace LabMVC.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()  // Action
+        public async Task< IActionResult> Index()  // Action
         {
             return View();
         }

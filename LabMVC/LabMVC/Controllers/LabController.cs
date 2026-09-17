@@ -32,7 +32,7 @@ namespace LabMVC.Controllers
             return PhysicalFile(path, "image/jpeg");
         }
 
-        public IActionResult ReturnJson(string id)
+        public async Task< IActionResult> ReturnJson(string id)
         {
             //return Json(new
             //{
@@ -50,9 +50,13 @@ namespace LabMVC.Controllers
 
             //return Ok(member);
 
-            var db = new JsonLab();
+            //var db = new JsonLab();
 
-            return Json(db.Customers);
+            //return Json(db.Customers);
+
+            var db = new JsonLab();
+            List<Customer> customers = await db.FillCustomersAsync();
+            return Json(customers);
         }
 
         public string ReturnString()

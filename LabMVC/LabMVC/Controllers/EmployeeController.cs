@@ -40,7 +40,7 @@ namespace LabMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Employee employee)
+        public async Task<IActionResult> Create(Employee employee)
         {
             //_dbcontext.Employees.Add(employee);
             //_dbcontext.SaveChanges();
@@ -49,7 +49,7 @@ namespace LabMVC.Controllers
             //_EmployeeRepository.SavaChanges();
 
             _dbEmployee.Add(employee);
-            _dbEmployee.SaveChanges();
+            await _dbEmployee.SaveChangesAsync();
 
             return RedirectToAction("Index");
         }

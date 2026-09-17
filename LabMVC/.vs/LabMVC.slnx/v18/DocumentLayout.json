@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Shared\\MVC\\LabMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\repository\\northwindgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\repository\\northwindgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\repository\\northwindemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\repository\\northwindemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\webapilab.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\webapilab.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\shared\\mvc\\labmvc\\webapilab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\sessionlabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\sessionlabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\repository\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\repository\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\northwinddbcontext\\northwinddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\northwinddbcontext\\northwinddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\repository\\irepository\\inorthwindemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\repository\\irepository\\inorthwindemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\models\\northwinddbcontext\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\models\\northwinddbcontext\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +53,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 259,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 273,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,29 +81,34 @@
               "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "LabMVC\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T06:40:44.367Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "LabMVC\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPIlab\\WeatherForecast.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPIlab\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T06:31:59.566Z",
+              "WhenOpened": "2026-09-17T08:42:26.455Z",
               "EditorCaption": ""
             },
             {
@@ -114,116 +119,126 @@
               "RelativeDocumentMoniker": "LabMVC\\Program.cs",
               "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Program.cs",
               "RelativeToolTip": "LabMVC\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T07:26:34.854Z",
+              "WhenOpened": "2026-09-17T08:41:17.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
-              "RelativeToolTip": "LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T08:07:00.508Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIlab\\appsettings.json",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\appsettings.json",
+              "RelativeToolTip": "WebAPIlab\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T08:40:01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "LabMVC\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "LabMVC\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-11T06:40:54.342Z",
+              "Title": "WebAPIlab.http",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\WebAPIlab.http",
+              "RelativeDocumentMoniker": "WebAPIlab\\WebAPIlab.http",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\WebAPIlab.http",
+              "RelativeToolTip": "WebAPIlab\\WebAPIlab.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-17T08:37:37.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "INorthwindEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\INorthwindEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\Repository\\IRepository\\INorthwindEmployeeRepository.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\INorthwindEmployeeRepository.cs",
-              "RelativeToolTip": "LabMVC\\Models\\Repository\\IRepository\\INorthwindEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T06:57:11.348Z"
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPIlab\\appsettings.Development.json",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPIlab\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T08:37:24.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "LabMVC\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "LabMVC\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-11T06:40:47.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "RelativeToolTip": "LabMVC\\Models\\NorthwindDbContext\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T06:29:52.183Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 407,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NorthwindGenericRepository.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\NorthwindGenericRepository.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\Repository\\NorthwindGenericRepository.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\NorthwindGenericRepository.cs",
-              "RelativeToolTip": "LabMVC\\Models\\Repository\\NorthwindGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T08:11:51.057Z",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPIlab\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPIlab\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T08:37:13.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NorthwindEmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\NorthwindEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\Repository\\NorthwindEmployeeRepository.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\NorthwindEmployeeRepository.cs",
-              "RelativeToolTip": "LabMVC\\Models\\Repository\\NorthwindEmployeeRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA/wBoAAAAiAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIlab\\Program.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\Program.cs",
+              "RelativeToolTip": "WebAPIlab\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T07:01:42.616Z",
+              "WhenOpened": "2026-09-17T08:37:03.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "NorthwindDbContext.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
-              "RelativeToolTip": "LabMVC\\Models\\NorthwindDbContext\\NorthwindDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPIlab\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\WebAPIlab\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPIlab\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T06:29:35.015Z",
+              "WhenOpened": "2026-09-17T08:34:48.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionLabController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\SessionLabController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\SessionLabController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\SessionLabController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\SessionLabController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T02:54:35.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T01:44:17.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LabController.cs",
+              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
+              "RelativeDocumentMoniker": "LabMVC\\Controllers\\LabController.cs",
+              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
+              "RelativeToolTip": "LabMVC\\Controllers\\LabController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T01:18:45.665Z",
               "EditorCaption": ""
             }
           ]
