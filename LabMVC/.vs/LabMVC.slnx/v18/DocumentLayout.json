@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\git\\mvc\\LabMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\git\\mvc\\labmvc\\labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -25,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\webapilab.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\webapilab.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|c:\\git\\mvc\\labmvc\\webapilab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B4FC571-00EC-4824-85FE-C98936929251}|WebAPIlab\\WebAPIlab.csproj|solutionrelative:webapilab\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\git\\mvc\\labmvc\\labmvc\\controllers\\labcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,7 +60,7 @@
         },
         {
           "DockedWidth": 172,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -129,44 +121,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPIlab\\Properties\\launchSettings.json",
               "ToolTip": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebAPIlab\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-17T08:37:13.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebAPIlab\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebAPIlab\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:34:48.01Z"
+              "WhenOpened": "2026-09-17T08:37:13.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\LabMVC\\Program.cs",
-              "RelativeDocumentMoniker": "LabMVC\\Program.cs",
-              "ToolTip": "C:\\git\\mvc\\LabMVC\\LabMVC\\Program.cs",
-              "RelativeToolTip": "LabMVC\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIlab\\Program.cs",
+              "ToolTip": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Program.cs",
+              "RelativeToolTip": "WebAPIlab\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:41:17.248Z",
+              "WhenOpened": "2026-09-17T08:37:03.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "SessionLabController.cs",
               "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\LabMVC\\Controllers\\SessionLabController.cs",
               "RelativeDocumentMoniker": "LabMVC\\Controllers\\SessionLabController.cs",
@@ -178,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "LabMVC\\Models\\Repository\\IRepository\\IGenericRepository.cs",
@@ -190,20 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPIlab\\Program.cs",
-              "ToolTip": "C:\\git\\mvc\\LabMVC\\WebAPIlab\\Program.cs",
-              "RelativeToolTip": "WebAPIlab\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T08:37:03.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "LabController.cs",
               "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\LabMVC\\Controllers\\LabController.cs",
               "RelativeDocumentMoniker": "LabMVC\\Controllers\\LabController.cs",

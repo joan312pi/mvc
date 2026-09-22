@@ -1,5 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
+using Scalar.AspNetCore;
 using System.Text.Json.Serialization;
 using WebAPIlab.Data;
 
@@ -20,8 +21,9 @@ namespace WebAPIlab
             builder.Services.AddDbContext<NorthwindDbContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("Northwind")));
 
-            builder.Services.ConfigureHttpJsonOptions(options =>
-            options.SerializerOptions.NumberHandling = JsonNumberHandling.Strict);
+            //// 這是swagger UI
+            //builder.Services.ConfigureHttpJsonOptions(options =>
+            //options.SerializerOptions.NumberHandling = JsonNumberHandling.Strict);
 
             var app = builder.Build();
 
@@ -30,10 +32,14 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("Northwind")));
             {
                 app.MapOpenApi();
 
-                app.UseSwaggerUI(options =>
-                {
-                    options.SwaggerEndpoint("/openapi/v1.json", "v1");
-                });
+                app.MapScalarApiReference();
+
+                //// 這是swagger UI
+                //app.UseSwaggerUI(options =>
+                //{
+                //    options.SwaggerEndpoint("/openapi/v1.json", "v1");
+                //});
+
             }
 
             app.UseHttpsRedirection();
