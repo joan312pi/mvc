@@ -61,5 +61,8 @@ namespace LabMVC.Models.NorthwindDbContext
         [StringLength(15)]
         [DisplayName("運送國家")]
         public string? ShipCountry { get; set; }
+
+
+        public Employee Employee { get; set; }
     }
 }

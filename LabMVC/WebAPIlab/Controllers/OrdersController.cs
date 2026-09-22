@@ -8,7 +8,7 @@ namespace LabMVC.Controllers
 {
   
     [Route("api/[controller]")]
-    [ApiController]
+    //[ApiController]
     public class OrdersController : Controller
     {
         private NorthwindDbContext _dbcontext;

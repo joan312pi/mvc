@@ -16,21 +16,38 @@ namespace LabMVC.Controllers
         {
             //var q = _dbcontext.Orders;
 
-            var q = from o in _dbcontext.Orders
-                    join e in _dbcontext.Employees
-                    on o.EmployeeID equals e.EmployeeID
-                    select new OrdersViewModel
-                    {
-                        OrderID = o.OrderID,
-                        CustomerID = o.CustomerID,
-                        EmployeeName = e.FirstName + " " + e.LastName,
-                        OrderDate = o.OrderDate,
-                        RequiredDate = o.RequiredDate,
-                        ShippedDate = o.ShippedDate,
-                        Freight =o.Freight
-                    };
+            //var q = from o in _dbcontext.Orders
+            //        join e in _dbcontext.Employees
+            //        on o.EmployeeID equals e.EmployeeID
+            //        select new OrdersViewModel
+            //        {
+            //            OrderID = o.OrderID,
+            //            CustomerID = o.CustomerID,
+            //            EmployeeName = e.FirstName + " " + e.LastName,
+            //            OrderDate = o.OrderDate,
+            //            RequiredDate = o.RequiredDate,
+            //            ShippedDate = o.ShippedDate,
+            //            Freight = o.Freight
+            //        };
 
-           return View(q);
+            var q = _dbcontext.Orders
+                .Select(myOrdersViewModel);
+
+            return View(q);
+        }
+
+        private OrdersViewModel myOrdersViewModel(Order o)
+        {
+            return new OrdersViewModel
+            {
+                OrderID = o.OrderID,
+                CustomerID = o.CustomerID,
+                OrderDate = o.OrderDate,
+                RequiredDate = o.RequiredDate,
+                ShippedDate = o.ShippedDate,
+                Freight = o.Freight,
+                EmployeeName = o.Employee.FirstName + " " + o.Employee.LastName
+            };
         }
 
         public IActionResult Details(int id)

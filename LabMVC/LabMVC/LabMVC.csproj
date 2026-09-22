@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="Areas\Member\Data\" />
     <Folder Include="Areas\Member\Models\" />
+    <Folder Include="Data\" />
   </ItemGroup>
 
   <ItemGroup>

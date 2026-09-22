@@ -57,5 +57,7 @@ namespace LabMVC.Models.NorthwindDbContext
 
         [StringLength(255)]
         public string? PhotoPath { get; set; }
+
+        public ICollection<Order> Orders { get; set; } 
     }
 }
