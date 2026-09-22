@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Shared\\MVC\\LabMVC\\",
+  "WorkspaceRootPath": "C:\\git\\mvc\\LabMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\shared\\mvc\\labmvc\\labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|c:\\git\\mvc\\labmvc\\labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DD12490-0EA8-3423-EE6A-904C5E63F9BE}|LabMVC\\LabMVC.csproj|solutionrelative:labmvc\\controllers\\modellabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ModelLabController.cs",
-              "DocumentMoniker": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
+              "DocumentMoniker": "C:\\git\\mvc\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
               "RelativeDocumentMoniker": "LabMVC\\Controllers\\ModelLabController.cs",
-              "ToolTip": "C:\\Shared\\MVC\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
+              "ToolTip": "C:\\git\\mvc\\LabMVC\\LabMVC\\Controllers\\ModelLabController.cs",
               "RelativeToolTip": "LabMVC\\Controllers\\ModelLabController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T03:37:16.569Z",
               "EditorCaption": ""

@@ -1,0 +1,59 @@
+﻿using LabMVC.Models.Repository.IRepository;
+using Microsoft.EntityFrameworkCore;
+
+namespace LabMVC.Models.Repository
+{
+    public class NorthwindGenericRepository<Table> : IGenericRepository<Table> where Table : class
+    {
+        private WebAPIlab.Data.NorthwindDbContext _dbContext;
+        private DbSet<Table> _dbSet;
+
+        public NorthwindGenericRepository(WebAPIlab.Data.NorthwindDbContext northwindDbContext)
+        {
+            _dbContext = northwindDbContext;
+            _dbSet = _dbContext.Set<Table>();
+          }
+
+        public void Add(Table entity)
+        {
+            _dbSet.Add(entity);
+        }
+
+        public void Delete(Table entity)
+        {
+             _dbSet.Remove(entity);
+        }
+
+        public IEnumerable<Table> GetAll()
+        {
+            return _dbSet;
+        }
+
+        public Table? GetById(object id)
+        {
+            return _dbSet.Find(id);
+        }
+
+        public void SaveChanges()
+        {
+            _dbContext.SaveChanges();
+        }
+
+        public void Update(Table entity)
+        {
+            _dbSet.Update(entity);
+        }
+
+        public async Task<Table?> GetByIdAsync(object id)
+        {
+           return  await _dbSet.FindAsync(id);
+        }
+       
+        public async Task SaveChangesAsync()
+        {
+            await _dbContext.SaveChangesAsync();
+        }
+
+
+    }
+}
